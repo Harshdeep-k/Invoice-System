@@ -26702,3 +26702,1155 @@
 - 10:05:32.203 DEBUG: Mongoose webserver stopped immediately
 - 10:05:32.203 INFO: Ended application
 - 10:05:32.203 INFO: --------------------------------------------------------
+- 18:51:31.000 INFO: --------------------------------------------------------
+- 18:51:31.000 INFO: Started application
+- 18:51:31.000 INFO: Logging to: D:\Invoice-System\debug.log
+- 18:51:31.000 INFO: Log level = DEBUG4
+- 18:51:31.000 INFO: Starting Mongoose 3.9c web server
+- 18:51:31.000 INFO: WWW directory: D:\Invoice-System\www
+- 18:51:31.000 INFO: Index files: index.html,index.php
+- 18:51:31.000 INFO: CGI interpreter: D:\Invoice-System\php\php-cgi.exe
+- 18:51:31.000 INFO: CGI pattern: **.php$
+- 18:51:31.000 INFO: CGI environment variables set: TMP=C:\Users\HP\AppData\Local\Temp\,TEMP=C:\Users\HP\AppData\Local\Temp\,TMPDIR=C:\Users\HP\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=1.14
+- 18:51:31.000 INFO: Web server url: http://127.0.0.1:53345/
+- 18:51:31.000 INFO: IE version from registry: 9.11.18362.0
+- 18:51:31.015 DEBUG: FEATURE_XMLHTTP succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_WINDOW_RESTRICTIONS succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_WEBOC_POPUPMANAGEMENT succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_RESTRICT_ACTIVEXINSTALL succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_RESTRICT_FILEDOWNLOAD succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_DISABLE_NAVIGATION_SOUNDS succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_FORCE_ADDR_AND_STATUS succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_BEHAVIORS succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_UNC_SAVEDFILECHECK succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_BLOCK_INPUT_PROMPTS succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_TABBED_BROWSING succeeded: 1
+- 18:51:31.015 DEBUG: FEATURE_ADDON_MANAGEMENT succeeded: 1
+- 18:51:31.015 DEBUG: GetBrowserWindow(): not found, hwnd = 133508
+- 18:51:31.015 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:51:31.015 DEBUG: BrowserWindow(): parentHandle = 0
+- 18:51:31.046 DEBUG: OleClientSite::QueryInterface(): IServiceProvider
+- 18:51:31.046 DEBUG: OleClientSite::QueryInterface(): IOleInPlaceSite
+- 18:51:31.062 DEBUG: OleClientSite::QueryInterface(): IDispatch
+- 18:51:31.125 DEBUG: GetBrowserWindow(): not found, hwnd = 133508
+- 18:51:31.125 DEBUG: WindowProc(): event WM_SETFOCUS: could not fetch BrowserWindow
+- 18:51:31.125 DEBUG: OleClientSite::QueryInterface(): IUnknown
+- 18:51:31.125 DEBUG: OleClientSite::QueryInterface(): DWebBrowserEvents2
+- 18:51:31.140 DEBUG: OleClientSite::QueryInterface(): IDocHostUIHandler
+- 18:51:31.140 DEBUG: OleClientSite::QueryInterface(): IDocHostShowUI
+- 18:51:32.203 DEBUG: StoreBrowserWindow(): hwnd = 133508
+- 18:51:32.406 INFO: GET 200 /
+- 18:51:32.421 DEBUG: DISPID_AMBIENT_DLCONTROL
+- 18:51:32.421 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 18:51:32.453 INFO: GET 200 /css/font-awesome/css/font-awesome.min.css
+- 18:51:32.453 INFO: GET 200 /css/bootstrap.min.css
+- 18:51:32.453 INFO: GET 200 /img/567.png
+- 18:51:32.593 INFO: GET 200 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:51:32.843 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.921 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.921 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.015 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.015 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.046 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:32.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:33.296 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:33.296 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:33.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:41.812 INFO: GET 200 /css/bootstrap.css
+- 18:51:41.828 INFO: GET 200 /css/datePicker.css
+- 18:51:41.828 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:51:41.828 INFO: GET 200 /css/main.css
+- 18:51:41.828 INFO: GET 200 /customer.php
+- 18:51:41.828 INFO: GET 200 /DataTables/datatables.min.css
+- 18:51:41.828 INFO: GET 200 /js/jquery.js
+- 18:51:41.828 INFO: GET 200 /js/datePicker.js
+- 18:51:41.843 INFO: GET 200 /js/bootstrap.min.js
+- 18:51:41.843 INFO: GET 200 /js/custom.js
+- 18:51:41.843 INFO: GET 200 /DataTables/datatables.min.js
+- 18:51:41.953 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:51:41.046 INFO: GET 404 /fonts/glyphicons-halflings-regular.eot?
+- 18:51:41.078 INFO: GET 404 /fonts/glyphicons-halflings-regular.woff
+- 18:51:41.093 INFO: GET 404 /fonts/glyphicons-halflings-regular.ttf
+- 18:51:44.468 INFO: GET 304 /css/bootstrap.css
+- 18:51:44.468 INFO: GET 304 /js/jquery.js
+- 18:51:44.468 INFO: GET 304 /js/datePicker.js
+- 18:51:44.468 INFO: GET 304 /css/datePicker.css
+- 18:51:44.468 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:51:44.468 INFO: GET 304 /css/main.css
+- 18:51:44.468 INFO: GET 304 /DataTables/datatables.min.css
+- 18:51:44.468 INFO: GET 304 /js/bootstrap.min.js
+- 18:51:44.468 INFO: GET 304 /js/custom.js
+- 18:51:44.484 INFO: GET 304 /DataTables/datatables.min.js
+- 18:51:44.484 INFO: GET 200 /invoice.php
+- 18:51:44.593 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:51:44.109 INFO: GET 304 /css/bootstrap.min.css
+- 18:51:44.109 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:51:44.109 INFO: GET 304 /img/567.png
+- 18:51:44.109 INFO: GET 200 /index.php
+- 18:51:44.156 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:51:45.921 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:51:45.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.718 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.718 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:02.781 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:03.453 INFO: GET 304 /css/bootstrap.css
+- 18:52:03.453 INFO: GET 304 /js/jquery.js
+- 18:52:03.453 INFO: GET 304 /js/datePicker.js
+- 18:52:03.453 INFO: GET 304 /css/datePicker.css
+- 18:52:03.453 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:52:03.453 INFO: GET 304 /css/main.css
+- 18:52:03.453 INFO: GET 304 /DataTables/datatables.min.css
+- 18:52:03.453 INFO: GET 304 /js/bootstrap.min.js
+- 18:52:03.468 INFO: GET 304 /js/custom.js
+- 18:52:03.468 INFO: GET 200 /invoice.php
+- 18:52:03.468 INFO: GET 304 /DataTables/datatables.min.js
+- 18:52:03.546 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:52:10.328 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 18:52:14.171 INFO: GET 304 /css/bootstrap.css
+- 18:52:14.171 INFO: GET 304 /js/jquery.js
+- 18:52:14.171 INFO: GET 304 /js/datePicker.js
+- 18:52:14.171 INFO: GET 304 /css/datePicker.css
+- 18:52:14.171 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:52:14.171 INFO: GET 304 /css/main.css
+- 18:52:14.171 INFO: GET 304 /js/bootstrap.min.js
+- 18:52:14.171 INFO: GET 304 /DataTables/datatables.min.css
+- 18:52:14.171 INFO: GET 304 /js/custom.js
+- 18:52:14.171 INFO: GET 200 /customer.php
+- 18:52:14.187 INFO: GET 304 /DataTables/datatables.min.js
+- 18:52:14.265 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:52:14.359 INFO: GET 404 /fonts/glyphicons-halflings-regular.eot?
+- 18:52:14.375 INFO: GET 404 /fonts/glyphicons-halflings-regular.woff
+- 18:52:14.390 INFO: GET 404 /fonts/glyphicons-halflings-regular.ttf
+- 18:52:19.312 INFO: GET 304 /css/bootstrap.css
+- 18:52:19.312 INFO: GET 304 /js/jquery.js
+- 18:52:19.328 INFO: GET 304 /js/datePicker.js
+- 18:52:19.328 INFO: GET 304 /css/datePicker.css
+- 18:52:19.328 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:52:19.328 INFO: GET 304 /css/main.css
+- 18:52:19.328 INFO: GET 304 /js/bootstrap.min.js
+- 18:52:19.328 INFO: GET 304 /DataTables/datatables.min.css
+- 18:52:19.328 INFO: GET 200 /product.php
+- 18:52:19.328 INFO: GET 304 /js/custom.js
+- 18:52:19.328 INFO: GET 304 /DataTables/datatables.min.js
+- 18:52:19.406 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:52:20.203 INFO: GET 304 /css/bootstrap.css
+- 18:52:20.203 INFO: GET 304 /js/jquery.js
+- 18:52:20.203 INFO: GET 304 /css/datePicker.css
+- 18:52:20.203 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:52:20.203 INFO: GET 304 /css/main.css
+- 18:52:20.203 INFO: GET 304 /js/datePicker.js
+- 18:52:20.203 INFO: GET 304 /js/bootstrap.min.js
+- 18:52:20.203 INFO: GET 304 /DataTables/datatables.min.css
+- 18:52:20.218 INFO: GET 304 /js/custom.js
+- 18:52:20.218 INFO: GET 200 /sell.php
+- 18:52:20.218 INFO: GET 304 /DataTables/datatables.min.js
+- 18:52:20.296 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:52:20.390 INFO: GET 404 /fonts/glyphicons-halflings-regular.eot?
+- 18:52:20.421 INFO: GET 404 /fonts/glyphicons-halflings-regular.woff
+- 18:52:20.437 INFO: GET 404 /fonts/glyphicons-halflings-regular.ttf
+- 18:52:20.078 INFO: GET 304 /css/bootstrap.css
+- 18:52:20.078 INFO: GET 304 /js/jquery.js
+- 18:52:20.078 INFO: GET 304 /js/datePicker.js
+- 18:52:20.078 INFO: GET 304 /css/datePicker.css
+- 18:52:20.078 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:52:20.078 INFO: GET 304 /css/main.css
+- 18:52:20.078 INFO: GET 304 /js/bootstrap.min.js
+- 18:52:20.093 INFO: GET 304 /DataTables/datatables.min.css
+- 18:52:20.093 INFO: GET 304 /js/custom.js
+- 18:52:20.093 INFO: GET 304 /DataTables/datatables.min.js
+- 18:52:20.093 INFO: GET 200 /purchase.php
+- 18:52:21.187 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:52:39.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:40.687 INFO: GET 304 /css/bootstrap.min.css
+- 18:52:40.687 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 18:52:40.687 INFO: GET 304 /img/567.png
+- 18:52:40.703 INFO: GET 200 /index.php
+- 18:52:40.734 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 18:52:42.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.281 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.281 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.296 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.296 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.343 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.343 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.718 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:42.718 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.796 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.843 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.843 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.921 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.921 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.015 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:43.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.968 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:44.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:46.171 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:46.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:46.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:46.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:46.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.343 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.343 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.343 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.375 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.593 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.593 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:47.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:48.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 18:52:48.140 DEBUG: RemoveBrowserWindow(): hwnd = 133508
+- 18:52:48.140 DEBUG: BrowserWindow::CloseBrowserControl()
+- 18:52:49.187 INFO: Stopping Mongoose web server
+- 18:52:49.187 DEBUG: Mongoose webserver stopped immediately
+- 18:52:49.203 INFO: Ended application
+- 18:52:49.203 INFO: --------------------------------------------------------
+- 19:00:49.000 INFO: --------------------------------------------------------
+- 19:00:49.000 INFO: Started application
+- 19:00:49.000 INFO: Logging to: D:\Invoice-System\debug.log
+- 19:00:49.000 INFO: Log level = DEBUG4
+- 19:00:49.000 INFO: Starting Mongoose 3.9c web server
+- 19:00:49.000 INFO: WWW directory: D:\Invoice-System\www
+- 19:00:49.000 INFO: Index files: index.html,index.php
+- 19:00:49.000 INFO: CGI interpreter: D:\Invoice-System\php\php-cgi.exe
+- 19:00:49.000 INFO: CGI pattern: **.php$
+- 19:00:49.000 INFO: CGI environment variables set: TMP=C:\Users\HP\AppData\Local\Temp\,TEMP=C:\Users\HP\AppData\Local\Temp\,TMPDIR=C:\Users\HP\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=1.14
+- 19:00:49.000 INFO: Web server url: http://127.0.0.1:53611/
+- 19:00:49.000 INFO: IE version from registry: 9.11.18362.0
+- 19:00:49.000 DEBUG: FEATURE_XMLHTTP succeeded: 1
+- 19:00:49.000 DEBUG: FEATURE_WINDOW_RESTRICTIONS succeeded: 1
+- 19:00:49.000 DEBUG: FEATURE_WEBOC_POPUPMANAGEMENT succeeded: 1
+- 19:00:49.000 DEBUG: FEATURE_RESTRICT_ACTIVEXINSTALL succeeded: 1
+- 19:00:49.000 DEBUG: FEATURE_RESTRICT_FILEDOWNLOAD succeeded: 1
+- 19:00:49.000 DEBUG: FEATURE_DISABLE_NAVIGATION_SOUNDS succeeded: 1
+- 19:00:49.000 DEBUG: FEATURE_FORCE_ADDR_AND_STATUS succeeded: 1
+- 19:00:49.015 DEBUG: FEATURE_BEHAVIORS succeeded: 1
+- 19:00:49.015 DEBUG: FEATURE_UNC_SAVEDFILECHECK succeeded: 1
+- 19:00:49.015 DEBUG: FEATURE_BLOCK_INPUT_PROMPTS succeeded: 1
+- 19:00:49.015 DEBUG: FEATURE_TABBED_BROWSING succeeded: 1
+- 19:00:49.015 DEBUG: FEATURE_ADDON_MANAGEMENT succeeded: 1
+- 19:00:49.015 DEBUG: GetBrowserWindow(): not found, hwnd = 199106
+- 19:00:49.015 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:00:49.015 DEBUG: BrowserWindow(): parentHandle = 0
+- 19:00:49.015 DEBUG: OleClientSite::QueryInterface(): IServiceProvider
+- 19:00:49.015 DEBUG: OleClientSite::QueryInterface(): IOleInPlaceSite
+- 19:00:49.031 DEBUG: OleClientSite::QueryInterface(): IDispatch
+- 19:00:49.046 DEBUG: GetBrowserWindow(): not found, hwnd = 199106
+- 19:00:49.046 DEBUG: WindowProc(): event WM_SETFOCUS: could not fetch BrowserWindow
+- 19:00:49.046 DEBUG: OleClientSite::QueryInterface(): IUnknown
+- 19:00:49.046 DEBUG: OleClientSite::QueryInterface(): DWebBrowserEvents2
+- 19:00:49.062 DEBUG: OleClientSite::QueryInterface(): IDocHostUIHandler
+- 19:00:49.062 DEBUG: OleClientSite::QueryInterface(): IDocHostShowUI
+- 19:00:49.093 DEBUG: StoreBrowserWindow(): hwnd = 199106
+- 19:00:49.343 INFO: GET 200 /
+- 19:00:49.359 DEBUG: DISPID_AMBIENT_DLCONTROL
+- 19:00:49.359 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 19:00:49.375 INFO: GET 200 /css/bootstrap.min.css
+- 19:00:49.375 INFO: GET 200 /css/font-awesome/css/font-awesome.min.css
+- 19:00:49.375 INFO: GET 200 /img/567.png
+- 19:00:49.421 INFO: GET 200 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:00:50.781 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.796 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.796 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.796 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.843 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.843 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.843 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:50.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:51.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:51.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:00:51.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.671 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.718 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.718 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.046 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:14.046 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:16.125 DEBUG: RemoveBrowserWindow(): hwnd = 199106
+- 19:01:16.125 DEBUG: BrowserWindow::CloseBrowserControl()
+- 19:01:16.234 INFO: Stopping Mongoose web server
+- 19:01:16.234 DEBUG: Mongoose webserver stopped immediately
+- 19:01:16.234 INFO: Ended application
+- 19:01:16.234 INFO: --------------------------------------------------------
+- 19:01:19.000 INFO: --------------------------------------------------------
+- 19:01:19.000 INFO: Started application
+- 19:01:19.000 INFO: Logging to: D:\Invoice-System\debug.log
+- 19:01:19.000 INFO: Log level = DEBUG4
+- 19:01:19.000 INFO: Starting Mongoose 3.9c web server
+- 19:01:19.000 INFO: WWW directory: D:\Invoice-System\www
+- 19:01:19.000 INFO: Index files: index.html,index.php
+- 19:01:19.000 INFO: CGI interpreter: D:\Invoice-System\php\php-cgi.exe
+- 19:01:19.000 INFO: CGI pattern: **.php$
+- 19:01:19.000 INFO: CGI environment variables set: TMP=C:\Users\HP\AppData\Local\Temp\,TEMP=C:\Users\HP\AppData\Local\Temp\,TMPDIR=C:\Users\HP\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=1.14
+- 19:01:19.015 INFO: Web server url: http://127.0.0.1:53623/
+- 19:01:19.015 INFO: IE version from registry: 9.11.18362.0
+- 19:01:19.015 DEBUG: FEATURE_XMLHTTP succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_WINDOW_RESTRICTIONS succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_WEBOC_POPUPMANAGEMENT succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_RESTRICT_ACTIVEXINSTALL succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_RESTRICT_FILEDOWNLOAD succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_DISABLE_NAVIGATION_SOUNDS succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_FORCE_ADDR_AND_STATUS succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_BEHAVIORS succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_UNC_SAVEDFILECHECK succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_BLOCK_INPUT_PROMPTS succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_TABBED_BROWSING succeeded: 1
+- 19:01:19.015 DEBUG: FEATURE_ADDON_MANAGEMENT succeeded: 1
+- 19:01:19.015 DEBUG: GetBrowserWindow(): not found, hwnd = 264868
+- 19:01:19.015 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:01:19.015 DEBUG: BrowserWindow(): parentHandle = 0
+- 19:01:19.031 DEBUG: OleClientSite::QueryInterface(): IServiceProvider
+- 19:01:19.031 DEBUG: OleClientSite::QueryInterface(): IOleInPlaceSite
+- 19:01:19.031 DEBUG: OleClientSite::QueryInterface(): IDispatch
+- 19:01:19.047 DEBUG: GetBrowserWindow(): not found, hwnd = 264868
+- 19:01:19.047 DEBUG: WindowProc(): event WM_SETFOCUS: could not fetch BrowserWindow
+- 19:01:19.047 DEBUG: OleClientSite::QueryInterface(): IUnknown
+- 19:01:19.047 DEBUG: OleClientSite::QueryInterface(): DWebBrowserEvents2
+- 19:01:19.062 DEBUG: OleClientSite::QueryInterface(): IDocHostUIHandler
+- 19:01:19.062 DEBUG: OleClientSite::QueryInterface(): IDocHostShowUI
+- 19:01:19.094 DEBUG: StoreBrowserWindow(): hwnd = 264868
+- 19:01:20.297 INFO: GET 200 /
+- 19:01:20.312 DEBUG: DISPID_AMBIENT_DLCONTROL
+- 19:01:20.312 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 19:01:20.312 INFO: GET 200 /css/font-awesome/css/font-awesome.min.css
+- 19:01:20.312 INFO: GET 200 /css/bootstrap.min.css
+- 19:01:20.312 INFO: GET 200 /img/567.png
+- 19:01:20.359 INFO: GET 200 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:01:20.453 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:20.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.406 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.453 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.844 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.844 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:22.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.719 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.719 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:25.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:28.031 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.781 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.781 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.781 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.797 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.797 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.844 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.844 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:29.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:30.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:30.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:30.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:30.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:30.781 INFO: GET 200 /css/bootstrap.css
+- 19:01:30.781 INFO: GET 200 /css/datePicker.css
+- 19:01:30.797 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 19:01:30.797 INFO: GET 200 /css/main.css
+- 19:01:30.797 INFO: GET 200 /DataTables/datatables.min.css
+- 19:01:30.797 INFO: GET 200 /invoice.php
+- 19:01:30.797 INFO: GET 200 /js/jquery.js
+- 19:01:30.797 INFO: GET 200 /js/datePicker.js
+- 19:01:30.797 INFO: GET 200 /js/bootstrap.min.js
+- 19:01:30.797 INFO: GET 200 /js/custom.js
+- 19:01:30.812 INFO: GET 200 /DataTables/datatables.min.js
+- 19:01:30.953 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:01:32.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:01:32.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:26.031 INFO: GET 304 /css/bootstrap.css
+- 19:02:26.031 INFO: GET 304 /js/jquery.js
+- 19:02:26.031 INFO: GET 304 /js/datePicker.js
+- 19:02:26.031 INFO: GET 304 /css/datePicker.css
+- 19:02:26.031 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 19:02:26.031 INFO: GET 304 /css/main.css
+- 19:02:26.031 INFO: GET 304 /DataTables/datatables.min.css
+- 19:02:26.031 INFO: GET 304 /js/bootstrap.min.js
+- 19:02:26.031 INFO: GET 304 /js/custom.js
+- 19:02:26.031 INFO: GET 200 /customer.php
+- 19:02:26.031 INFO: GET 304 /DataTables/datatables.min.js
+- 19:02:26.109 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:02:27.219 INFO: GET 404 /fonts/glyphicons-halflings-regular.eot?
+- 19:02:27.250 INFO: GET 404 /fonts/glyphicons-halflings-regular.woff
+- 19:02:27.250 INFO: GET 404 /fonts/glyphicons-halflings-regular.ttf
+- 19:02:37.703 INFO: GET 304 /css/bootstrap.css
+- 19:02:37.703 INFO: GET 304 /js/jquery.js
+- 19:02:37.703 INFO: GET 304 /js/datePicker.js
+- 19:02:37.703 INFO: GET 304 /css/datePicker.css
+- 19:02:37.703 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 19:02:37.703 INFO: GET 304 /css/main.css
+- 19:02:37.719 INFO: GET 304 /DataTables/datatables.min.css
+- 19:02:37.719 INFO: GET 304 /js/bootstrap.min.js
+- 19:02:37.719 INFO: GET 304 /js/custom.js
+- 19:02:37.719 INFO: GET 304 /DataTables/datatables.min.js
+- 19:02:37.719 INFO: GET 200 /invoice.php
+- 19:02:37.812 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:02:39.890 INFO: GET 304 /css/bootstrap.min.css
+- 19:02:39.890 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 19:02:39.890 INFO: GET 304 /img/567.png
+- 19:02:39.890 INFO: GET 200 /index.php
+- 19:02:39.937 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:02:39.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.094 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.094 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.109 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.109 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.109 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:39.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:40.344 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:02:40.344 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:06.015 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:07.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:07.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:07.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.422 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.422 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.422 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.437 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.437 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.453 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.453 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.469 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.797 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.797 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.812 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:25:18.828 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:33.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:29:35.594 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:31:58.125 DEBUG: RemoveBrowserWindow(): hwnd = 264868
+- 19:31:58.125 DEBUG: BrowserWindow::CloseBrowserControl()
+- 19:31:59.187 INFO: Stopping Mongoose web server
+- 19:31:59.187 DEBUG: Mongoose webserver stopped immediately
+- 19:31:59.187 INFO: Ended application
+- 19:31:59.187 INFO: --------------------------------------------------------
+- 19:32:04.000 INFO: --------------------------------------------------------
+- 19:32:04.000 INFO: Started application
+- 19:32:04.000 INFO: Logging to: D:\Invoice-System\debug.log
+- 19:32:04.000 INFO: Log level = DEBUG4
+- 19:32:04.000 INFO: Starting Mongoose 3.9c web server
+- 19:32:04.000 INFO: WWW directory: D:\Invoice-System\www
+- 19:32:04.000 INFO: Index files: index.html,index.php
+- 19:32:04.000 INFO: CGI interpreter: D:\Invoice-System\php\php-cgi.exe
+- 19:32:04.000 INFO: CGI pattern: **.php$
+- 19:32:04.000 INFO: CGI environment variables set: TMP=C:\Users\HP\AppData\Local\Temp\,TEMP=C:\Users\HP\AppData\Local\Temp\,TMPDIR=C:\Users\HP\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=1.14
+- 19:32:04.000 INFO: Web server url: http://127.0.0.1:54228/
+- 19:32:04.000 INFO: IE version from registry: 9.11.18362.0
+- 19:32:04.000 DEBUG: FEATURE_XMLHTTP succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_WINDOW_RESTRICTIONS succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_WEBOC_POPUPMANAGEMENT succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_RESTRICT_ACTIVEXINSTALL succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_RESTRICT_FILEDOWNLOAD succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_DISABLE_NAVIGATION_SOUNDS succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_FORCE_ADDR_AND_STATUS succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_BEHAVIORS succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_UNC_SAVEDFILECHECK succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_BLOCK_INPUT_PROMPTS succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_TABBED_BROWSING succeeded: 1
+- 19:32:04.000 DEBUG: FEATURE_ADDON_MANAGEMENT succeeded: 1
+- 19:32:04.000 DEBUG: GetBrowserWindow(): not found, hwnd = 920328
+- 19:32:04.000 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:32:04.000 DEBUG: BrowserWindow(): parentHandle = 0
+- 19:32:04.016 DEBUG: OleClientSite::QueryInterface(): IServiceProvider
+- 19:32:04.016 DEBUG: OleClientSite::QueryInterface(): IOleInPlaceSite
+- 19:32:04.032 DEBUG: OleClientSite::QueryInterface(): IDispatch
+- 19:32:04.032 DEBUG: GetBrowserWindow(): not found, hwnd = 920328
+- 19:32:04.032 DEBUG: WindowProc(): event WM_SETFOCUS: could not fetch BrowserWindow
+- 19:32:04.047 DEBUG: OleClientSite::QueryInterface(): IUnknown
+- 19:32:04.047 DEBUG: OleClientSite::QueryInterface(): DWebBrowserEvents2
+- 19:32:04.047 DEBUG: OleClientSite::QueryInterface(): IDocHostUIHandler
+- 19:32:04.047 DEBUG: OleClientSite::QueryInterface(): IDocHostShowUI
+- 19:32:04.078 DEBUG: StoreBrowserWindow(): hwnd = 920328
+- 19:32:04.297 INFO: GET 200 /
+- 19:32:04.313 DEBUG: DISPID_AMBIENT_DLCONTROL
+- 19:32:04.313 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 19:32:04.313 INFO: GET 200 /css/font-awesome/css/font-awesome.min.css
+- 19:32:04.313 INFO: GET 200 /css/bootstrap.min.css
+- 19:32:04.328 INFO: GET 404 /img/567.png
+- 19:32:04.360 INFO: GET 200 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 19:32:07.016 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.016 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.016 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.032 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.032 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.047 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.063 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.063 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.094 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.094 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.110 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.110 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.141 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.157 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.157 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.235 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.266 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:32:07.282 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 19:47:37.047 DEBUG: RemoveBrowserWindow(): hwnd = 920328
+- 19:47:37.047 DEBUG: BrowserWindow::CloseBrowserControl()
+- 19:47:37.063 INFO: Stopping Mongoose web server
+- 19:47:37.063 DEBUG: Mongoose webserver stopped immediately
+- 19:47:37.078 INFO: Ended application
+- 19:47:37.078 INFO: --------------------------------------------------------
+- 21:55:50.000 INFO: --------------------------------------------------------
+- 21:55:50.000 INFO: Started application
+- 21:55:50.000 INFO: Logging to: D:\Invoice-System\debug.log
+- 21:55:50.000 INFO: Log level = DEBUG4
+- 21:55:50.000 INFO: Starting Mongoose 3.9c web server
+- 21:55:50.000 INFO: WWW directory: D:\Invoice-System\www
+- 21:55:50.000 INFO: Index files: index.html,index.php
+- 21:55:50.000 INFO: CGI interpreter: D:\Invoice-System\php\php-cgi.exe
+- 21:55:50.000 INFO: CGI pattern: **.php$
+- 21:55:50.000 INFO: CGI environment variables set: TMP=C:\Users\HP\AppData\Local\Temp\,TEMP=C:\Users\HP\AppData\Local\Temp\,TMPDIR=C:\Users\HP\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=1.14
+- 21:55:50.016 INFO: Web server url: http://127.0.0.1:55153/
+- 21:55:50.016 INFO: IE version from registry: 9.11.18362.0
+- 21:55:50.016 DEBUG: FEATURE_XMLHTTP succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_WINDOW_RESTRICTIONS succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_WEBOC_POPUPMANAGEMENT succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_RESTRICT_ACTIVEXINSTALL succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_RESTRICT_FILEDOWNLOAD succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_DISABLE_NAVIGATION_SOUNDS succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_FORCE_ADDR_AND_STATUS succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_BEHAVIORS succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_UNC_SAVEDFILECHECK succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_BLOCK_INPUT_PROMPTS succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_TABBED_BROWSING succeeded: 1
+- 21:55:50.016 DEBUG: FEATURE_ADDON_MANAGEMENT succeeded: 1
+- 21:55:50.032 DEBUG: GetBrowserWindow(): not found, hwnd = 1771320
+- 21:55:50.032 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:55:50.032 DEBUG: BrowserWindow(): parentHandle = 0
+- 21:55:50.032 DEBUG: OleClientSite::QueryInterface(): IServiceProvider
+- 21:55:50.032 DEBUG: OleClientSite::QueryInterface(): IOleInPlaceSite
+- 21:55:50.047 DEBUG: OleClientSite::QueryInterface(): IDispatch
+- 21:55:50.079 DEBUG: GetBrowserWindow(): not found, hwnd = 1771320
+- 21:55:50.079 DEBUG: WindowProc(): event WM_SETFOCUS: could not fetch BrowserWindow
+- 21:55:50.079 DEBUG: OleClientSite::QueryInterface(): IUnknown
+- 21:55:50.079 DEBUG: OleClientSite::QueryInterface(): DWebBrowserEvents2
+- 21:55:50.094 DEBUG: OleClientSite::QueryInterface(): IDocHostUIHandler
+- 21:55:50.094 DEBUG: OleClientSite::QueryInterface(): IDocHostShowUI
+- 21:55:50.141 DEBUG: StoreBrowserWindow(): hwnd = 1771320
+- 21:55:50.329 INFO: GET 200 /
+- 21:55:50.344 DEBUG: DISPID_AMBIENT_DLCONTROL
+- 21:55:50.344 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 21:55:50.360 INFO: GET 200 /css/font-awesome/css/font-awesome.min.css
+- 21:55:50.360 INFO: GET 200 /css/bootstrap.min.css
+- 21:55:50.375 INFO: GET 200 /img/567.JPG
+- 21:55:50.438 INFO: GET 200 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:55:53.235 INFO: GET 200 /css/bootstrap.css
+- 21:55:53.235 INFO: GET 200 /css/datePicker.css
+- 21:55:53.235 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 21:55:53.235 INFO: GET 200 /css/main.css
+- 21:55:53.250 INFO: GET 200 /DataTables/datatables.min.css
+- 21:55:53.250 INFO: GET 200 /invoice.php
+- 21:55:53.250 INFO: GET 200 /js/jquery.js
+- 21:55:53.250 INFO: GET 200 /js/datePicker.js
+- 21:55:53.266 INFO: GET 200 /js/bootstrap.min.js
+- 21:55:53.266 INFO: GET 200 /js/custom.js
+- 21:55:53.266 INFO: GET 200 /DataTables/datatables.min.js
+- 21:55:53.391 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:55:56.125 INFO: GET 304 /css/bootstrap.css
+- 21:55:56.125 INFO: GET 304 /js/jquery.js
+- 21:55:56.125 INFO: GET 304 /css/datePicker.css
+- 21:55:56.125 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 21:55:56.125 INFO: GET 304 /css/main.css
+- 21:55:56.125 INFO: GET 304 /js/datePicker.js
+- 21:55:56.125 INFO: GET 200 /customer.php
+- 21:55:56.125 INFO: GET 304 /DataTables/datatables.min.css
+- 21:55:56.125 INFO: GET 304 /js/bootstrap.min.js
+- 21:55:56.125 INFO: GET 304 /js/custom.js
+- 21:55:56.141 INFO: GET 304 /DataTables/datatables.min.js
+- 21:55:56.250 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:55:56.344 INFO: GET 404 /fonts/glyphicons-halflings-regular.eot?
+- 21:55:56.360 INFO: GET 404 /fonts/glyphicons-halflings-regular.woff
+- 21:55:56.360 INFO: GET 404 /fonts/glyphicons-halflings-regular.ttf
+- 21:56:00.657 INFO: GET 304 /css/bootstrap.css
+- 21:56:00.657 INFO: GET 304 /js/jquery.js
+- 21:56:00.657 INFO: GET 304 /js/datePicker.js
+- 21:56:00.657 INFO: GET 304 /css/datePicker.css
+- 21:56:00.657 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 21:56:00.657 INFO: GET 304 /css/main.css
+- 21:56:00.672 INFO: GET 304 /js/bootstrap.min.js
+- 21:56:00.672 INFO: GET 304 /DataTables/datatables.min.css
+- 21:56:00.672 INFO: GET 200 /purchase_list.php
+- 21:56:00.672 INFO: GET 304 /js/custom.js
+- 21:56:00.672 INFO: GET 304 /DataTables/datatables.min.js
+- 21:56:00.797 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:56:00.938 INFO: GET 404 /fonts/glyphicons-halflings-regular.eot?
+- 21:56:00.969 INFO: GET 404 /fonts/glyphicons-halflings-regular.woff
+- 21:56:00.985 INFO: GET 404 /fonts/glyphicons-halflings-regular.ttf
+- 21:56:22.625 INFO: GET 304 /css/bootstrap.min.css
+- 21:56:22.625 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 21:56:22.625 INFO: GET 304 /img/567.JPG
+- 21:56:22.641 INFO: GET 200 /index.php
+- 21:56:22.704 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:56:24.110 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:24.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:24.141 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:24.141 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:27.579 INFO: GET 304 /css/bootstrap.css
+- 21:56:27.579 INFO: GET 304 /js/jquery.js
+- 21:56:27.579 INFO: GET 304 /js/datePicker.js
+- 21:56:27.579 INFO: GET 304 /css/datePicker.css
+- 21:56:27.579 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 21:56:27.579 INFO: GET 304 /css/main.css
+- 21:56:27.579 INFO: GET 304 /js/bootstrap.min.js
+- 21:56:27.594 INFO: GET 304 /DataTables/datatables.min.css
+- 21:56:27.594 INFO: GET 304 /js/custom.js
+- 21:56:27.594 INFO: GET 304 /DataTables/datatables.min.js
+- 21:56:27.594 INFO: GET 200 /invoice.php
+- 21:56:28.813 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:56:32.938 DEBUG: RemoveBrowserWindow(): hwnd = 1771320
+- 21:56:32.938 DEBUG: BrowserWindow::CloseBrowserControl()
+- 21:56:32.985 INFO: Stopping Mongoose web server
+- 21:56:32.985 DEBUG: Mongoose webserver stopped immediately
+- 21:56:32.985 INFO: Ended application
+- 21:56:32.985 INFO: --------------------------------------------------------
+- 21:56:37.000 INFO: --------------------------------------------------------
+- 21:56:37.000 INFO: Started application
+- 21:56:37.000 INFO: Logging to: D:\Invoice-System\debug.log
+- 21:56:37.000 INFO: Log level = DEBUG4
+- 21:56:37.015 INFO: Starting Mongoose 3.9c web server
+- 21:56:37.015 INFO: WWW directory: D:\Invoice-System\www
+- 21:56:37.015 INFO: Index files: index.html,index.php
+- 21:56:37.015 INFO: CGI interpreter: D:\Invoice-System\php\php-cgi.exe
+- 21:56:37.015 INFO: CGI pattern: **.php$
+- 21:56:37.015 INFO: CGI environment variables set: TMP=C:\Users\HP\AppData\Local\Temp\,TEMP=C:\Users\HP\AppData\Local\Temp\,TMPDIR=C:\Users\HP\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=1.14
+- 21:56:37.015 INFO: Web server url: http://127.0.0.1:55223/
+- 21:56:37.031 INFO: IE version from registry: 9.11.18362.0
+- 21:56:37.031 DEBUG: FEATURE_XMLHTTP succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_WINDOW_RESTRICTIONS succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_WEBOC_POPUPMANAGEMENT succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_RESTRICT_ACTIVEXINSTALL succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_RESTRICT_FILEDOWNLOAD succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_DISABLE_NAVIGATION_SOUNDS succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_FORCE_ADDR_AND_STATUS succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_BEHAVIORS succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_UNC_SAVEDFILECHECK succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_BLOCK_INPUT_PROMPTS succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_TABBED_BROWSING succeeded: 1
+- 21:56:37.031 DEBUG: FEATURE_ADDON_MANAGEMENT succeeded: 1
+- 21:56:37.031 DEBUG: GetBrowserWindow(): not found, hwnd = 4392970
+- 21:56:37.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:56:37.031 DEBUG: BrowserWindow(): parentHandle = 0
+- 21:56:37.062 DEBUG: OleClientSite::QueryInterface(): IServiceProvider
+- 21:56:37.062 DEBUG: OleClientSite::QueryInterface(): IOleInPlaceSite
+- 21:56:37.078 DEBUG: OleClientSite::QueryInterface(): IDispatch
+- 21:56:37.109 DEBUG: GetBrowserWindow(): not found, hwnd = 4392970
+- 21:56:37.109 DEBUG: WindowProc(): event WM_SETFOCUS: could not fetch BrowserWindow
+- 21:56:37.109 DEBUG: OleClientSite::QueryInterface(): IUnknown
+- 21:56:37.109 DEBUG: OleClientSite::QueryInterface(): DWebBrowserEvents2
+- 21:56:37.109 DEBUG: OleClientSite::QueryInterface(): IDocHostUIHandler
+- 21:56:37.109 DEBUG: OleClientSite::QueryInterface(): IDocHostShowUI
+- 21:56:37.219 DEBUG: StoreBrowserWindow(): hwnd = 4392970
+- 21:56:37.531 INFO: GET 200 /
+- 21:56:37.547 DEBUG: DISPID_AMBIENT_DLCONTROL
+- 21:56:37.547 DEBUG: DocHostUiHandler::GetOptionKeyPath(): registry path: Software\PHP Desktop\MSIE
+- 21:56:37.578 INFO: GET 200 /css/bootstrap.min.css
+- 21:56:37.578 INFO: GET 200 /css/font-awesome/css/font-awesome.min.css
+- 21:56:37.578 INFO: GET 200 /img/567.JPG
+- 21:56:37.656 INFO: GET 200 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 21:56:38.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.344 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.344 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.375 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.390 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.406 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.484 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.500 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.515 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.531 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.547 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.562 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:56:38.578 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:52.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:52.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:52.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:52.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.953 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:53.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.969 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.984 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.000 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.015 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.047 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.062 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.078 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.109 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.109 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.109 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.281 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.281 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.297 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.609 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.625 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.640 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.656 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:55.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 21:59:56.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:07.390 INFO: GET 200 /css/bootstrap.css
+- 22:01:07.390 INFO: GET 200 /css/datePicker.css
+- 22:01:07.390 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 22:01:07.406 INFO: GET 200 /css/main.css
+- 22:01:07.406 INFO: GET 200 /invoice.php
+- 22:01:07.406 INFO: GET 200 /DataTables/datatables.min.css
+- 22:01:07.406 INFO: GET 200 /js/jquery.js
+- 22:01:07.422 INFO: GET 200 /js/datePicker.js
+- 22:01:07.422 INFO: GET 200 /js/bootstrap.min.js
+- 22:01:07.422 INFO: GET 200 /js/custom.js
+- 22:01:07.437 INFO: GET 200 /DataTables/datatables.min.js
+- 22:01:07.562 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 22:01:40.703 INFO: GET 304 /css/bootstrap.min.css
+- 22:01:40.703 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 22:01:40.703 INFO: GET 304 /img/567.JPG
+- 22:01:40.719 INFO: GET 200 /index.php
+- 22:01:40.781 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 22:01:40.844 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:40.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:40.859 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:40.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:40.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:40.875 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.890 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.906 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.922 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.937 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.125 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.140 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.156 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.172 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.187 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.203 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.219 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.234 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.250 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.265 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.281 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.281 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.297 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.297 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.312 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.328 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.344 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.672 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.687 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.703 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.719 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.750 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:01:41.765 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.359 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.375 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.375 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.375 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.390 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.390 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.406 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.406 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.422 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.422 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.437 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.437 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:19.453 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:03:31.484 INFO: GET 304 /css/bootstrap.css
+- 22:03:31.484 INFO: GET 304 /js/jquery.js
+- 22:03:31.484 INFO: GET 304 /js/datePicker.js
+- 22:03:31.484 INFO: GET 304 /css/datePicker.css
+- 22:03:31.484 INFO: GET 304 /css/font-awesome/css/font-awesome.min.css
+- 22:03:31.484 INFO: GET 304 /css/main.css
+- 22:03:31.500 INFO: GET 304 /js/bootstrap.min.js
+- 22:03:31.500 INFO: GET 304 /DataTables/datatables.min.css
+- 22:03:31.500 INFO: GET 200 /invoice.php
+- 22:03:31.500 INFO: GET 304 /js/custom.js
+- 22:03:31.500 INFO: GET 304 /DataTables/datatables.min.js
+- 22:03:31.625 INFO: GET 304 /css/font-awesome/fonts/fontawesome-webfontd41d.eot?
+- 22:27:11.734 DEBUG: OleClientSite::QueryInterface(): unknown interface, riid = {bf9d04bf-dbad-40ef-b1a1-e4cc38fa8995}
+- 22:27:14.562 DEBUG: RemoveBrowserWindow(): hwnd = 4392970
+- 22:27:14.578 DEBUG: BrowserWindow::CloseBrowserControl()
+- 22:27:14.703 INFO: Stopping Mongoose web server
+- 22:27:14.703 DEBUG: Mongoose webserver stopped immediately
+- 22:27:14.719 INFO: Ended application
+- 22:27:14.719 INFO: --------------------------------------------------------

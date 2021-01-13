@@ -19,7 +19,7 @@
     .title {
         text-align: center;
         margin-top: 3%;
-        color: #E91E63;
+        color: #F26627;
         text-shadow: 0px 1px 1px black;
         font-size: 50px;
 
@@ -57,10 +57,10 @@
 
 <body>
     <div class="container" style="margin-bottom: 20px;">
-        <h1 class="title">KRISHNA SPEECH AND HEARING AID CENTRE</h1>
-        <p>111-A/222, ASHOK NAGAR, KANPUR</p>
+        <h1 class="title">AIR TECHNOLOGY</h1>
+        <p>205 TRANQUILITY BUILDING, SHASTRI NAGAR, ANDHERI WEST, MUMBAI-400 053</p>
         <div class="text-center">
-            <img src="img/567.png" title="hearing Ads" class="img-fluid">
+            <img src="img/567.JPG" title="hearing Ads" class="img-fluid">
         </div>
         <div class="row text-center align-center">
             <!-- <div class="col-md-1"></div> -->
@@ -134,7 +134,7 @@
         </div>
     </div>
     <div class="text-center" id="developer-foot-note">
-        <p>Design And Developed By: <a href="http://experttechs.in"> Expert Technologies</a></p> 
+        <p>Design And Developed By: <a href="https://www.airtechnology.xyz/home"> Air Technology</a></p> 
     </div>
 </body>
 
