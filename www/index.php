@@ -44,7 +44,7 @@
         position: fixed;
         bottom: 0;
         margin-top: 10px;
-        background-color: #17a2b8;
+        background-color: #052D6F;
         color: white;
         text-align: center !important;
         width: 100%;

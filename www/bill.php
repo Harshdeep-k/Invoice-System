@@ -98,7 +98,7 @@ if($d["day"] > 3) {
     $year_next = $year_current;
 }
 
-if($year_previous > 18) {
+if($year_previous > 30) {
     header('refresh:0.5;expire.php');
 }
 ?>
